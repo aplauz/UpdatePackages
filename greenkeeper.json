@@ -1,0 +1,13 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "YetiForce CRM 3.x.x/3.2.0_to_3.3.0/updates/files/libraries/jquery/timepicker/package.json",
+        "YetiForce CRM 3.x.x/3.3.0_to_3.4.0/updates/files/libraries/jquery/timepicker/package.json",
+        "YetiForce CRM 3.x.x/3.4.0_to_4.0.0/updates_1/updates/files/libraries/jquery/timepicker/package.json",
+        "YetiForce CRM 3.x.x/3.4.0_to_4.0.0/updates_2/updates/files/libraries/jquery/timepicker/package.json",
+        "YetiForce CRM 4.x.x/4.0.0_to_4.1.0/updates/files/public_html/libraries/jquery/timepicker/package.json"
+      ]
+    }
+  }
+}
